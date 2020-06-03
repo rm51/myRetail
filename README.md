@@ -11,4 +11,4 @@ To update the price using postman: http://localhost:5000/api/products/13860428 b
 
 To run tests: In the test directory pytest update_product.py
  
-![] tests.png
+![] (tests.png)
