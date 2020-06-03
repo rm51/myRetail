@@ -1,5 +1,5 @@
 myRetail RESTful Service
-It assume python, mongodb and pip are already installed. To install the dependencies pip install -r requirements.txt
+It assumes python, mongodb and pip are already installed. To install the dependencies pip install -r requirements.txt
 
 To run the server:
 
