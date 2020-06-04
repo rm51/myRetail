@@ -1,4 +1,0 @@
-from .product import ProductApi
-
-def initialize_routes(api):
-	api.add_resource(ProductApi, '/products/<product_id>')
